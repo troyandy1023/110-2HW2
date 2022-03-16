@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:27:54.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kvsdnSF7o0l9phppZPQh" version="17.1.2" type="device"><diagram id="oKyxzHDayaN0CAhAsXDF" name="非西醫院領域模型">dZHBDoIwDIafZnfYDOIZUS+eOHheWGVLBl3GDOjTC9kQFzTpof32d//aEVa049lyI68oQBOaiJGwI6E03VFK5kjE05MsP3jQWCWCaAWVekGASaAPJaCPhA5RO2ViWGPXQe0ixq3FIZbdUceuhjewAVXN9ZbelHDS05zuV34B1cjFOc3CfC1fxGGSXnKBwxdiJWGFRXQ+a8cC9Ly8ZS++7/Tn9PMwC5370TAl691TEf0QK98=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T11:52:52.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="1a1-PtxSiGAgDIL-wv8S" version="17.1.3" type="github">
+  <diagram id="oKyxzHDayaN0CAhAsXDF" name="非西醫院領域模型">
+    <mxGraphModel dx="1038" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TfGF1paP6LEiFszKIr8o-1" value="非西醫院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry y="-675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-2" value="診間" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-3" value="時段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-5" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=24;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="-645.5" as="sourcePoint" />
+            <mxPoint x="280" y="-645.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-6" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="TfGF1paP6LEiFszKIr8o-5">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-7" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="TfGF1paP6LEiFszKIr8o-5">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-11" value="土豆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-13" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=24;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-645.5" as="sourcePoint" />
+            <mxPoint x="560" y="-645.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-14" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="TfGF1paP6LEiFszKIr8o-13">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-15" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="TfGF1paP6LEiFszKIr8o-13">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGF1paP6LEiFszKIr8o-16" value="土豆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-680" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
